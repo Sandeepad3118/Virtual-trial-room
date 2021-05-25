@@ -39,3 +39,11 @@
   height: 100px;
   margin-bottom: 15px;
 }
+
+.product__title{
+  font-weight: bold;
+}
+
+.product__sign{
+  font-weight: bold;
+}

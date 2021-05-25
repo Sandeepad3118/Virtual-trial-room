@@ -20,7 +20,7 @@ function Header() {
       <Link to="/">
         <img
           className="header__logo"
-          src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
+          src="https://cdn.dribbble.com/users/955551/screenshots/3781800/vtr.jpg" height="65px" width="100px"
         />
       </Link>
 
